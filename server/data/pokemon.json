@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Bulbasaur",
+    "types": [
+      "Grama",
+      "Veneno"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "description": "Bulbasaur pode ser visto cochilando sob a luz do sol forte."
+  },
+  {
+    "name": "Charmander",
+    "types": [
+      "Fogo"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "description": "Charmander é conhecido pela chama que arde na ponta de sua cauda."
+  },
+  {
+    "name": "Squirtle",
+    "types": [
+      "Água"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "description": "Squirtle é um pequeno Pokémon semelhante a uma tartaruga, conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Pidgey",
+    "types": [
+      "Normal",
+      "Voador"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "description": "Pidgey é um Pokémon pássaro, frequentemente visto em campos e florestas."
+  },
+  {
+    "name": "Rattata",
+    "types": [
+      "Normal"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "description": "Rattata é um pequeno Pokémon roedor, conhecido por sua rapidez."
+  },
+  {
+    "name": "Ekans",
+    "types": [
+      "Veneno"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "description": "Ekans é um Pokémon serpente que gosta de se enrolar em torno de suas presas."
+  },
+  {
+    "name": "Pikachu",
+    "types": [
+      "Elétrico"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "description": "Pikachu é um Pokémon do tipo Elétrico, conhecido por suas habilidades de relâmpago."
+  },
+  {
+    "name": "Jigglypuff",
+    "types": [
+      "Fada"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "description": "Jigglypuff é um Pokémon do tipo Fada, conhecido por suas habilidades de canto."
+  },
+  {
+    "name": "Zubat",
+    "types": [
+      "Veneno",
+      "Voador"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "description": "Zubat é um Pokémon semelhante a um morcego que habita cavernas."
+  },
+  {
+    "name": "Meowth",
+    "types": [
+      "Normal"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "description": "Meowth é um Pokémon travesso, conhecido por seu amor por objetos brilhantes."
+  },
+  {
+    "name": "Oddish",
+    "types": "Água",
+    "description": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/043.png"
+  },
+  {
+    "name": "Charizard",
+    "types": "Fogo",
+    "description": "If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade.",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/012.png"
+  }
+]
